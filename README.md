@@ -1,3 +1,3 @@
 # sampleproject3
 <br>
-author - leez
+author - leez(lees)
